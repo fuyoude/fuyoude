@@ -1,6 +1,6 @@
 <!-- ==================== HEADER: Typing Animation ==================== -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Hey+%F0%9F%91%8B+I'm+fuyoude;Java+Backend+%7C+Middleware+%7C+Source+Code+Archaeologist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Hey+%F0%9F%91%8B+I'm+fuyoude;" alt="Typing SVG" /></a>
 </div>
 
 <!-- ==================== BADGES: Social & Contact ==================== -->
@@ -228,8 +228,6 @@ Apache Mina 2.2.0 source code research with annotations.
 
 ## 📊 GitHub Stats
 
-<!-- 🔧 主题可选: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fuyoude&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyoude&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -237,12 +235,6 @@ Apache Mina 2.2.0 source code research with annotations.
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuyoude&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<!-- ==================== ACTIVITY GRAPH (可选) ==================== -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuyoude&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
